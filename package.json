@@ -1,0 +1,23 @@
+{
+  "name": "multi-threading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexYalovyi/multi-threading.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexYalovyi/multi-threading/issues"
+  },
+  "homepage": "https://github.com/AlexYalovyi/multi-threading#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
